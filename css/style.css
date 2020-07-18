@@ -1,0 +1,15 @@
+.time {
+    font-size: 50px;
+    margin: 0 auto;
+    width: 1000px;
+}
+
+.buttons {
+    margin: 30px;
+    text-align: center;
+}
+
+.wrapper {
+    max-width: 800px;
+    margin: 0 auto;
+}
